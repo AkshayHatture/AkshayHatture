@@ -26,7 +26,7 @@
 ## 📂 Featured Projects
 
 ### [WanderWay](https://github.com/akshayhatture/WanderWay)
-A JavaScript-based project focused on travel experiences.
+A JavaScript-based travel booking website.
 
 ### [MiniProjects](https://github.com/akshayhatture/MiniProjects)
 A collection of HTML projects demonstrating various concepts.
