@@ -36,7 +36,7 @@ Fundamental HTML projects to solidify foundational knowledge.
 
 ## 📈 GitHub Stats
 
-![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayhatture&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayhatture&show_icons=true&theme=radical)
 
 ---
 
