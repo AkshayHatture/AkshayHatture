@@ -26,6 +26,9 @@
 
 ## 📂 Featured Projects
 
+### [ShopIt Fashion](https://github.com/akshayhatture/ShopIt)
+A Fullstack MERN fashion eCommerce application
+
 ### [WanderWay](https://github.com/akshayhatture/WanderWay)
 A JavaScript-based travel booking website.
 
