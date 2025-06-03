@@ -49,7 +49,7 @@ Fundamental HTML projects to solidify foundational knowledge.
 ## 📫 Let's Connect
 
 - 📧 Email: [akshayhatture11@gmail.com](mailto:akshayhatture11@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/akshayhatture](https://www.linkedin.com/in/akshayhatture)
+- 💼 LinkedIn: [linkedin.com/in/akshayhatture](https://www.linkedin.com/in/akshay-hatture)
 
 ---
 
